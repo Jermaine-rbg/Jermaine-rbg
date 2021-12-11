@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on - Interprise Projects
 - 🤔 I’m looking for help with - Python and Django
 - 📫 How to reach me: jermaine@brandnetictechnologies.com
-- ⚡ Fun fact: I'm a die hard Alabama Football Fan Roll Tide Roll
+- ⚡ Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
 
