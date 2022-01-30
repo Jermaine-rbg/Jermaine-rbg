@@ -2,8 +2,8 @@
 
 
 
-- I’m currently learning - Frontend Technologies
-- I’m looking to collaborate on - Interprise Projects
+- I’m currently learning - Python, Django and Computer Science Fundamentals
+- I’m looking to collaborate on - Projects with students
 - I’m looking for help with - Python and Django
 - How to reach me: jermainebaileysoftwareengineer@gmail.com
 - Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
