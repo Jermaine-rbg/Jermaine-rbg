@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jermaine a Software Engineer interested in Frontend Development so I’ve emphasized my learnings and current projects on HTML, CSS, JavaScript, React.JS, a newly learned React framework Next.JS.
+### Hi there 👋 My name is Jermaine a current student at Justice Through Code Columbia University Software Engineering Program.
 
 
 
