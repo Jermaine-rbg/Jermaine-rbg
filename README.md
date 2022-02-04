@@ -9,3 +9,5 @@
 - Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white) 
