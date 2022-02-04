@@ -8,3 +8,4 @@
 - How to reach me: jermainebaileysoftwareengineer@gmail.com
 - Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
