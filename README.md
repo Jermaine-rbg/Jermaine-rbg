@@ -8,4 +8,4 @@
 - How to reach me: jermainebaileysoftwareengineer@gmail.com
 - Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
