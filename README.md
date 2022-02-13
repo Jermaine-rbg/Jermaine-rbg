@@ -18,5 +18,5 @@
 ![git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=#F05032)
 ![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=#181717)
 
-✍🏾 Project links
+### ✍🏾 Project links
 - Funportfolio - https://jermaine-fun-portfolio.vercel.app/
