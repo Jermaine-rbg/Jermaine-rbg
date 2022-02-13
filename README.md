@@ -9,6 +9,8 @@
 - Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
 
 ### Technical Skills
+![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5t&logoColor=#E34F26)
+![css3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3t&logoColor=#1572B6)
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E)
 ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB) 
 ![node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933) 
