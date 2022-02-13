@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my technical, problem solving, interpersonal and communication skills:
 
 
-- 📚 Recent graduate from Digital Crafts Full Stack Software Development Bootcamp
+- 🎓 Recent graduate from Digital Crafts Full Stack Software Development Bootcamp
 - 🌱 I’m currently learning - Python, Django and Computer Science Fundamentals
 - 🤔 I’m looking forward to collaborate on - Projects with fellow students
 - 💬 I’m looking for help with - Python and Django
