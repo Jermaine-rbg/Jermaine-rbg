@@ -8,6 +8,7 @@
 - How to reach me: jermainebaileysoftwareengineer@gmail.com
 - Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
 
+### Technical Skills
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E)
 ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB) 
 ![node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933) 
