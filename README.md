@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Jermaine a current student at Justice Through Code Columbia University Software Engineering Program.
 
 
-
+- Recent graduate from Digital Crafts Full Stack Software Development Bootcamp
 - I’m currently learning - Python, Django and Computer Science Fundamentals
 - I’m looking forward to collaborate on - Projects with fellow students
 - I’m looking for help with - Python and Django
