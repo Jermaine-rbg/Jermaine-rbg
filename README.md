@@ -10,7 +10,7 @@
 - 📫 How to reach me: jermainebaileysoftwareengineer@gmail.com
 - ⚡ Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
 
-### 💼 Technical Skills
+## 💼 Technical Skills
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E)
 ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB) 
 ![node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933) 
@@ -18,7 +18,6 @@
 ![git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=#F05032)
 ![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=#181717)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+## Longest Coding Streak
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jermaine-rbg&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
