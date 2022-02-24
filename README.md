@@ -11,12 +11,12 @@
 - ⚡ Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
 
 ## Programming Languages
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E)
-![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB) 
-![node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933) 
-![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
-![git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=#F05032)
-![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=#181717)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ## Longest Coding Streak
 
