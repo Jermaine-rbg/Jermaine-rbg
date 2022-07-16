@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jermaine a Front-End Software Engineer.
+### Hi there 👋 My name is Jermaine a passionate Front-End Software Engineer.
 
 - 🔭 I’m currently working on my technical, problem solving, interpersonal and communication skills:
 
