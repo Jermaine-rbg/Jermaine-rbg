@@ -1,13 +1,13 @@
-### Hi there 👋 My name is Jermaine a current student at Justice Through Code Columbia University Software Engineering Program.
+### Hi there 👋 My name is Jermaine a Front-End Software Engineer.
 
 - 🔭 I’m currently working on my technical, problem solving, interpersonal and communication skills:
 
-
-- 🎓 Recent graduate from Digital Crafts Full Stack Software Development Bootcamp
-- 🌱 I’m currently learning - Python, Django and Computer Science Fundamentals
-- 🤔 I’m looking forward to collaborate on - Projects with fellow students
-- 👀 I’m looking for help with - Python and Django
-- 📫 How to reach me: jermainebaileysoftwareengineer@gmail.com
+- 🎓 Recent graduate from Columbia University Justice Through Code Full Stack Software Engineering Program
+- 🎓 Graduate from Digital Crafts Full Stack Software Development Bootcamp
+- 🌱 I’m currently learning - Software Architecture, Design Patterns, Data Structures and Algorithms
+- 🤔 I’m looking forward to collaborate in more Hackathons
+- 👀 I’m looking for help with - Data Structures and Algorithms
+- 📫 How to reach me: jermainebailey2022@gmail.com
 - ⚡ Fun fact: I'm a die hard Alabama Football Fan "Roll Tide Roll"
 
 ## Programming 
